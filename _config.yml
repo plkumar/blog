@@ -25,7 +25,7 @@ baseurl: '/blog'
 title: 'Lakshman Peethani'
 description: 'Lakshman Peethani'
 permalink: pretty
-#logo: "https://en.gravatar.com/userimage/7732556/905d3300478dede114b3198b22b6177c.png"
+logo: "avatar.png"
 
 # Pagination
 paginate: 5
