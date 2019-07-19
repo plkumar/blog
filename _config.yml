@@ -25,7 +25,7 @@ baseurl: '/blog'
 title: 'Lakshman Peethani'
 description: 'Lakshman Peethani'
 permalink: pretty
-logo: "https://en.gravatar.com/userimage/7732556/905d3300478dede114b3198b22b6177c.png"
+#logo: "https://en.gravatar.com/userimage/7732556/905d3300478dede114b3198b22b6177c.png"
 
 # Pagination
 paginate: 5
@@ -34,11 +34,11 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /blog
+  url: /
 - title: About
-  url: /blog/about/
+  url: /about/
 - title: Blog
-  url: /blog/blog/
+  url: /blog/
 
 # Footer nav
 navigation_footer:
