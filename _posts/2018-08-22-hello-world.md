@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hurray first post
+title: Hurray! My first post
 categories:
 - General
 feature_image: "https://picsum.photos/2560/600?image=872"
