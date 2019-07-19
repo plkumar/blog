@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://plkumar.me'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Lakshman Peethani'
+description: 'Lakshman Peethani'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://en.gravatar.com/userimage/7732556/905d3300478dede114b3198b22b6177c.png"
 
 # Pagination
 paginate: 5
@@ -34,11 +34,11 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: /blog
 - title: About
-  url: /about/
+  url: /blog/about/
 - title: Blog
-  url: /blog/
+  url: /blog/blog/
 
 # Footer nav
 navigation_footer:
