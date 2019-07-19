@@ -25,7 +25,7 @@ baseurl: '/blog'
 title: 'Lakshman Peethani'
 description: 'Lakshman Peethani'
 permalink: pretty
-logo: "avatar.png"
+logo: "/avatar.png"
 
 # Pagination
 paginate: 5
