@@ -21,7 +21,7 @@ plugins:
 
 # Site settings
 url: 'https://plkumar.me'
-baseurl: ''
+baseurl: '/blog'
 title: 'Lakshman Peethani'
 description: 'Lakshman Peethani'
 permalink: pretty
