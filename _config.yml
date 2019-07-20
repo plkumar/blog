@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://plkumar.me'
+url: 'https://plkumar.github.io'
 baseurl: '/'
 title: 'Lakshman Peethani'
 description: 'Lakshman Peethani'
