@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Welcome to my personal blog.
 layout: page
-feature_image: "https://scontent.fhyd2-1.fna.fbcdn.net/v/t31.0-8/26063406_1598170416915651_1055397633714226414_o.jpg?_nc_cat=111&_nc_oc=AQnNtfoXvQn8CoIWxvmCMrYkRkwWKbV1KKIu2jkDlvUjlrnKmJZ75xD_m_wIYmadu_8&_nc_ht=scontent.fhyd2-1.fna&oh=2b2d4cbbc506cd798b8e816e56a139ac&oe=5DAF448B"
+feature_image: "https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/38862597_1854576114608412_5133599058279006208_o.jpg?_nc_cat=103&_nc_oc=AQkI-NMAGqIwWQWTLW0vmGjzxpmL4JG4e0XklDpKNoly6x1alhcKbJORTygcBHAVusU&_nc_ht=scontent.fhyd2-1.fna&oh=966de83d82fd7c6fccb6a5ae008914bb&oe=5DEB3105"
 feature_text: |
-  ## Hello world
+  ## Lakshman Peethani
 ---
 
 There isn't much going on here yet, but watch this space
