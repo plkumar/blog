@@ -7,3 +7,17 @@ feature_text: |
 ---
 
 There isn't much going on here yet, but watch this space
+
+``` python
+def get_user(self)
+  print "Hello ", self.name
+
+```
+
+``` c
+void getUser(char* name)
+{
+  printf("Hello %s", name);
+}
+
+```
