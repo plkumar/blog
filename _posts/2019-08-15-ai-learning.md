@@ -44,3 +44,7 @@ This page is a collection of various Artificial Learning resources.
 #### Others
 * [Open Neural Network Exchange](https://onnx.ai/) - ONNX is an open format to represent deep learning models.
     * [Tutorials](https://github.com/onnx/tutorials)
+
+### SCIKIT
+
+* https://scikit-learn.org/stable/tutorial/
