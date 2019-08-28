@@ -7,7 +7,6 @@ categories:
 - Machine Learning
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-### Collection of AI Learning resources
 
 This page is a collection of various Artificial Learning resources.
 
