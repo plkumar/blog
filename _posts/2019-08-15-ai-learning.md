@@ -47,3 +47,8 @@ This page is a collection of various Artificial Learning resources.
 ### SCIKIT
 
 * https://scikit-learn.org/stable/tutorial/
+
+
+### Videos
+
+* [Writing a Neural Net from Scratch - Joe Albahari](https://www.youtube.com/watch?v=YSPiKL-bkfI&list=PL03Lrmd9CiGe9QtFC8LRRqknzpKgcrWpe&index=15)
