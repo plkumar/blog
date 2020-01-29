@@ -6,4 +6,4 @@ layout: page
 #   ## Lakshman Peethani
 ---
 
-There isn't much going on here yet, but watch this space
+There isn't much going on here yet, but watch this space for future updates.
